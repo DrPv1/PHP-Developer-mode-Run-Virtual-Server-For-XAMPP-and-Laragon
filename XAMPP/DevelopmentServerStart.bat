@@ -1,4 +1,4 @@
-cd C:\laragon\www\
+cd C:\XAMPP\htdocs\
 @echo off
 color a
 cls
