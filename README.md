@@ -13,3 +13,11 @@ how to use
 3. รอจนระบบรัน เซิฟเวอร์จำลองขึ้นมาให้
 4. เปิดเบราว์เซอร์แล้วไปที่ http://localhost:8080
 5. หากต้องการปิด Server สามารถปิด CMD หรือ กด Ctrl+C ได้เลย
+
+---
+
+>Run run project outside of Laragon or XAMPP path. The rest of the run just change the first cd line of the first .bat file to your desired path.
+
+
+
+>หากต้องการรันโปรเจ็คที่อยู่นอก Path ของ Laragon หรือ XAMPP ก็สามารถรันได้เช่นกัน เพียงเปลี่ยน cd บรรทัดแรกของไฟล์ .bat เป็น Path ที่คุณต้องการ
