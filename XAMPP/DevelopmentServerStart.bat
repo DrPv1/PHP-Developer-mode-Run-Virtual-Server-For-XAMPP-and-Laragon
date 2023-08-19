@@ -17,7 +17,7 @@ echo            ================================================================
 echo            ================================================================
 echo            ======== System Start Server Development For [LARAGON] =========
 echo.
-set /p project=Enter your Name Project to Start Server: 
+set /p project=Enter your Project path to start server: 
 cls
 echo Please wait, the system is processing.
 timeout /t 2
@@ -37,7 +37,7 @@ echo            ================================================================
 echo            =============== System Start Server Development ================
 echo.
 echo.
-echo            ======================= Validate PHP Path ======================
+echo            ===================== Validate file location ====================
 timeout /t 1 > nul
 cd %project%
 if errorlevel 1 (
